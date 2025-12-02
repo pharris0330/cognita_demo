@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Don't share source yet
+src/
+demo4/
+sample-repo/
